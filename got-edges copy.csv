@@ -1,0 +1,31 @@
+Source,Target,Weight
+Harry, Ron, 6
+Harry, Malfoy, 2
+Harry, Hermione, 4
+Harry, Neville, 1
+Harry, McGonagall, 2
+Harry, Flitwick, 2
+Harry, Oliver, 1
+Harry, Seamus, 1
+Harry, Troll, 1
+Harry, Quirrel, 1
+Harry, Snape, 2
+Harry, Fat Lady, 1
+Ron, Troll, 1
+Ron, McGonagall, 1
+Ron, Quirrel, 1
+Ron, Malfoy, 1
+Ron, Hermione, 4
+Ron, McGonagall, 1
+Ron, Snape, 2
+Ron, Fat Lady, 1
+Malfoy, Flitwick, 1
+Parvati, Lavender, 1
+Quirrel, Dumbledore, 1
+Percy, Harry, 1
+Percy, Ron, 1
+Hermione, Troll, 1
+Hermione, Flitwick, 1
+Hermione, McGonagall, 1
+Hermione, Snape, 1
+Hermione, Quirrel, 1
